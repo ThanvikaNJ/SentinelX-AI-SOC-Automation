@@ -1,0 +1,11 @@
+From: IT Support <helpdesk@example.invalid>
+Reply-To: urgent-reply@other-example.invalid
+To: analyst@example.invalid
+Subject: Urgent: mailbox access review
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Please review your mailbox immediately:
+https://login-example.invalid/verify
+
+Attached is the requested report: invoice.js
