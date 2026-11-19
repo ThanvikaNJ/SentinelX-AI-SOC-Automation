@@ -1,0 +1,4 @@
+# Synthetic training indicators only; reserved/example values.
+203.0.113.45
+login-example.invalid
+https://login-example.invalid/reset
